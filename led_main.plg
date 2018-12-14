@@ -1,0 +1,11 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Graphene\Desktop\LED\led_main.uvproj
+Project File Date:  12/14/2018
+
+<h2>Output:</h2>
+Clean started: Project: 'led_main'
+   deleting intermediate output files for target 'Target 1'

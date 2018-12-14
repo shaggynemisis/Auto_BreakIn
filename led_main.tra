@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'led_main.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_lpc17xx.o"'
+### List of Objects: adding '"timer.o"'
+### List of Objects: adding '"main.o"'
+### ADS-LD Command completed:
+--device DARMP1 "startup_lpc17xx.o" "timer.o" "main.o" --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x10000000 --entry Reset_Handler --first __Vectors --strict --autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\led_main.map" -o "led_main.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'led_main.axf'
+### ADS-LD Command File: 'led_main.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'led_main.lnp', Handle=0x00000C44
+### Writing '.lnp' file
+### ADS-LD Command file 'led_main.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
