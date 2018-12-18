@@ -1,4 +1,3 @@
-
 #include <lpc17xx.h>
 #define N LPC_SC
 	
@@ -18,4 +17,3 @@ void System_Init(void)
 		N->PLL0FEED=0X55;
  }
  
-

@@ -3,25 +3,10 @@
 
 #include "Std_Types.h"
 
-#define MILLISEC      24999
-
-
-
-
-
-
+#define MILLISEC      (24999)
 
 extern void Timer_Delay(uint32 Prescalar);
 extern void Timer_Init(void);
-
-
-
-
-
-
-
-
-
 
 //#define ONE_HERTZ         12499999
 //#define TWO_HERTZ         6249999
